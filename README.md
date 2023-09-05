@@ -2,7 +2,7 @@
 
 ## I'm a Leipzig-based full stack web developer with a passion for crafting dynamic digital experiences.
 
-#My skills
+##My skills
 
 <div display=flex>
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png"  width="100">
@@ -19,7 +19,8 @@
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/jest.png"  width="100">
 </div>
 
-- 🌱 I’m currently learning Spring boot
+
+## 🌱 I’m currently learning Spring boot
 
 <!--
 **William8421/William8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
