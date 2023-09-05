@@ -3,8 +3,10 @@
 ## I'm a Leipzig-based full stack web developer with a passion for crafting dynamic digital experiences.
 
 #My skills
-![Javascript](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/javascript.png?raw=true)
 
+
+![HTML5](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png?raw=true)
+![CSS3](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/css.png?raw=true)
 <!--
 **William8421/William8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
