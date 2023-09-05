@@ -20,7 +20,7 @@
 </div>
 
 
-## 🌱 I’m currently learning Spring boot <img src="https://image.pngaaa.com/579/2459579-middle.png" width="100">
+## 🌱 I’m currently learning Spring boot
 
 <!--
 **William8421/William8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
