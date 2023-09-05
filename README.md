@@ -4,7 +4,7 @@
 
 #My skills
 
-<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png)"  width="600" height="300">
+<img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png"  width="600" height="300">
 
 ![HTML5](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png?raw=true)
 ![CSS3](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/css.png?raw=true)
