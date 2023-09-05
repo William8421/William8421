@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I'm a Leipzig-based full stack web developer with a passion for crafting dynamic digital experiences.
+
 <!--
 **William8421/William8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
