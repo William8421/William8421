@@ -21,7 +21,7 @@
 
 
 ## 🌱 I’m currently learning Spring boot
-<img src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png"  width="100">
+. <img src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png"  width="100">
 
 <!--
 **William8421/William8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
