@@ -5,10 +5,7 @@
 #My skills
 
 
-![HTML5](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png?raw=true)
-![CSS3](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/css.png?raw=true)
-![Javascript](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/javascript.png?raw=true)
-![Typescript](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/ts-logo-512.png?raw=true)
+![HTML5](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png?raw=true)![CSS3](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/css.png?raw=true)![Javascript](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/javascript.png?raw=true)![Typescript](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/ts-logo-512.png?raw=true)
 <!--
 **William8421/William8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
