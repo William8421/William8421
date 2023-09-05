@@ -19,9 +19,10 @@
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/jest.png"  width="100">
 </div>
 
-
+<div display=flex alignItems=center>
 ## 🌱 I’m currently learning Spring boot
-. <img src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png"  width="100">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png"  width="100">
+</div>
 
 <!--
 **William8421/William8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
