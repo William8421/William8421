@@ -4,6 +4,7 @@
 
 #My skills
 
+<div display=flex>
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/css.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/javascript.png"  width="100">
@@ -16,6 +17,7 @@
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/es6.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/GraphQLLogo.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/jest.png"  width="100">
+</div>
 
 <!--
 **William8421/William8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
