@@ -19,7 +19,7 @@
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/jest.png"  width="100">
 </div>
 
-<div display=flex alignItems=center>
+<div display=flex align-items=center>
 ## 🌱 I’m currently learning Spring boot
 <img src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png"  width="100">
 </div>
