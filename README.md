@@ -4,7 +4,6 @@
 
 #My skills
 
-<img src="[https://your-image-url.type](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png)" width="10" height="10">
 ![HTML5](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png?raw=true)
 ![CSS3](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/css.png?raw=true)
 ![Javascript](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/javascript.png?raw=true)
