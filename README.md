@@ -5,7 +5,7 @@
 #My skills
 
 
-![HTML5](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png?raw=true|width=50X50)
+![HTML5](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/html.png?raw=true|width=10pxX10px)
 ![CSS3](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/css.png?raw=true)
 ![Javascript](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/javascript.png?raw=true)
 ![Typescript](https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/ts-logo-512.png?raw=true)
