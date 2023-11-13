@@ -23,7 +23,7 @@
 </div>
 
 
-## 🌱 I’m currently learning Spring boot
+## 🌱 I’m currently learning SQL
 
 <!--
 **William8421/William8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
