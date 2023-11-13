@@ -11,12 +11,15 @@
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/ts-logo-512.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/react.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/angularlogo.png"  width="100">
+<img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/vue-logo.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/nodejs.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/express.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/mongodb.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/es6.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/GraphQLLogo.png"  width="100">
 <img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/jest.png"  width="100">
+<img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/java.png"  width="100">
+<img src="https://github.com/William8421/William8421.github.io/blob/main/src/images/skills-logos/spring-boot.png"  width="100">
 </div>
 
 
